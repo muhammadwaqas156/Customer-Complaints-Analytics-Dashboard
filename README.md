@@ -111,6 +111,11 @@ Customer-Complaints-Analytics/
 
 👉 https://drive.google.com/file/d/1tlmp8yV1lqiNip86bfcQ0xg6IgQ580uI/view?usp=drive_link  
 
+## 📊 Dataset Access  
+
+👉 https://www.kaggle.com/muhammadwaqas156/datasets
+
+
 ---
 
 ## 🧠 What This Project Demonstrates  
