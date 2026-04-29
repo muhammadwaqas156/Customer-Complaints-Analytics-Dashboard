@@ -62,7 +62,7 @@ The dashboard transforms raw data into actionable insights for decision-making, 
 - **Power BI**  
 - **DAX**  
 - **Power Query (ETL)**  
-- **SQL / CSV**  
+- **SQL & CSV**  
 - **Star Schema Modeling**  
 
 ---
